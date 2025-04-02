@@ -1,8 +1,14 @@
 #include <stdio.h)
 int main(){
-    /*
-    if (condicao) {
-        //bloco de código a ser executado
-        }
+    int numero1, numero2;
+
+    numero1 = 10;
+    numero2 = 5;
+
+    if (numero > numero2)
+        printf("Número1 é maior que numero2"); 
+      
+    }
+   
 
 }
