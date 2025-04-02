@@ -8,12 +8,14 @@ int main(){
 
 
 
-    if (idade >= 18 )
+    if (idade >= 18 ){
         printf("Você é maior de idade\n"); //Só vai executar aquidentro o que for verdadeiro
-        printf("Fora IF");
+        printf("Detro IF\n");
+
+        printf("Fora IF\n");
     
-       
-        return 0;
+}
+        
    
 
 }
