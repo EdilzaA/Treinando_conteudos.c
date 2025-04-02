@@ -9,7 +9,7 @@ int main(){
 
 
     if (idade >= 18 ){
-        printf("Você é maior de idade\n"); //Só vai executar aquidentro o que for verdadeiro
+        printf("Você é maior de idade\n"); //Só vai executar aqui dentro o que for verdadeiro, EXECUTOU PA A CONDIÇÃO FOI VERDADEIRA
         printf("Detro IF\n");
 
         printf("Fora IF\n");
