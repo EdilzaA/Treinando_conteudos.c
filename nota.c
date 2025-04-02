@@ -2,9 +2,7 @@
 
 int main(){ 
     
-    
     int nota = 70; 
-
 
 
     if (nota >= 60 ){
